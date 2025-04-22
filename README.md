@@ -53,7 +53,8 @@ The project uses the following dependencies:
 
 | 🔍 Search Screen | 🎥 Results Grid |
 |------------------|----------------|
-| ![Search Screen](https://via.placeholder.com/150) | ![Results Grid](https://via.placeholder.com/150) |
+| ![image](https://github.com/user-attachments/assets/e04fc4fc-1108-46dd-8489-1f6472fa3654) | ![image](https://github.com/user-attachments/assets/50db2fd1-cb8d-41ce-9401-2cccc97efa6f)
+
 
 ## 📝 License
 
